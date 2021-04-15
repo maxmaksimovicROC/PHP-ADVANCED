@@ -13,6 +13,8 @@
                     foreach($kleuren as $optie){
                     echo "<option value=$optie>$optie</option>";};
                 ?>
+                            
+
             </select>
             <a>achtergrond kleur</a>        
              <select name="tekst-kleur" id="tekst-kleur">
@@ -22,11 +24,24 @@
                         echo "<option value=$optie>$optie</option>";};
                 ?>
             </select>
+            
             <a>tekst kleur</a>
+<<<<<<< HEAD
             <input type="text" name="border">
             <a>border</a>
+=======
+            <br>
+
+            <input type="text" name="border">
+            <a>border</a>
+            <br>
+
+
+>>>>>>> 225c6c931afdf845736bf25ca8e077f47d913b3d
             <input type="text" name="padding">
             <a>padding</a>
+            <br>
+
             <input type="submit" name="submit" value="vesrtuur">
         </div>
     </body>
