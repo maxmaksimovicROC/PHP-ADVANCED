@@ -24,7 +24,7 @@
 
                     <?php
                         $info2= array("naam"=>"naam", "achternaam"=>"achternaam", "klas"=>"klas", "muziek"=>"favorite music");
-                        $info= array("naam"=>"wouter", "achternaam"=>"Baas", "klas"=>"0D", "muziek"=>"Heavy metal");
+                        $info= array("naam"=>"Max", "achternaam"=>"Maksimovic", "klas"=>"0D", "Muziek"=>"R&B");
                         
 
                         function maakrij($info2){
